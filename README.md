@@ -67,16 +67,16 @@ I’m interested in **Machine Learning**, **Deep Learning for Computer Vision**,
 
 <br/><br/>
 
-<a href="https://github.com/coderngaonger/Aspect-sentiment-review-classifier">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Aspect-sentiment-review-classifier&theme=radical&v=1" />
+<a href="https://github.com/coderngaonger/CAP1">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=CAP1&theme=radical&v=1" />
 </a>
 
-<a href="https://github.com/coderngaonger/Smart-enrollment-AI-chatbot-visualization">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Smart-enrollment-AI-chatbot-visualization&theme=merko&v=1" />
+<a href="https://github.com/coderngaonger/Smart-enrollment-chatbotAI">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Smart-enrollment-chatbotAI&theme=merko&v=1" />
 </a>
 
-<a href="https://github.com/coderngaonger/Realtime-object-detection-warning">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Realtime-object-detection-warning&theme=gruvbox&v=1" />
+<a href="https://github.com/coderngaonger/Realtime_object_dectection_warning_system">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Realtime_object_dectection_warning_system&theme=gruvbox&v=1" />
 </a>
 
 </div>
