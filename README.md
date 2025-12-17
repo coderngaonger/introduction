@@ -62,8 +62,9 @@ I’m interested in **Machine Learning**, **Deep Learning for Computer Vision**,
 </a>
 
 <a href="https://github.com/coderngaonger">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=coderngaonger&theme=merko&hide_border=false&v=1" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=coderngaonger&theme=merko&hide_border=false&cache_seconds=86400&v=1" />
 </a>
+
 
 <br/><br/>
 
