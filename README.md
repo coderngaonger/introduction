@@ -1,54 +1,78 @@
 # Hi there 👋👋👋
-My name is Ho Le Khoi Nguyen. I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision, LLM, Artificial Intelligence and Data Analytics.<br>
+My name is **Ho Le Khoi Nguyen**.  
+I’m interested in **Machine Learning**, **Deep Learning for Computer Vision**, **LLMs**, **Artificial Intelligence**, and **Data Analytics**.
 
-# Contact me:
+---
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bon0910/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%C3%AAn-h%E1%BB%93-l%C3%AA-kh%C3%B4i-0173862b2/) [![GitHub](https://img.shields.io/badge/Git-hub-white)](https://github.com/coderngaonger)
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/bon0910/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%C3%AAn-h%E1%BB%93-l%C3%AA-kh%C3%B4i-0173862b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/coderngaonger)
 
-## 💻Tech Stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+---
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+## 💻 Tech Stack
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
 
-![PowerBI](https://img.shields.io/badge/PowerBI-FFD700?style=plastic) ![Tableau](https://img.shields.io/badge/Tableau-blue?style=plastic)
+### Cloud / Platform
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautifulsoup-lightgray?style=plastic) ![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=plastic&logo=selenium&logoColor=white)
+### Database / BI
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Langchain](https://img.shields.io/badge/LangChain-32CD32?style=plastic)
+### Data / Scraping
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4EAA25?style=plastic)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white)
 
+### ML / DL
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-32CD32?style=plastic)
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=plastic) ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=plastic) ![Colab](https://img.shields.io/badge/Colab-lightgray?style=plastic)
+### Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=black)
 
-## 📊GitHub Stats :
+---
 
-<p align="center">
+## 📊 GitHub Stats
+<div align="center">
+
 <a href="https://github.com/coderngaonger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderngaonger&theme=merko&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github&hide=prs&show_icons=true&line_height=24"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coderngaonger&theme=merko&hide_border=false&show_icons=true&rank_icon=github&hide=prs"/>
 </a>
 
 <a href="https://github.com/coderngaonger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderngaonger&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=27"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderngaonger&theme=merko&hide_border=false&layout=compact"/>
 </a>
 
 <a href="https://github.com/coderngaonger">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderngaonger&theme=merko&hide_border=false" alt="DucTien's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=coderngaonger&theme=merko&hide_border=false" alt="GitHub Streak"/>
 </a>
 
-<br>
-<a href="https://github.com/coderngaonger/CAP1">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=coderngaonger&repo=Aspect-sentiment-review-classifier&theme=radical" />
-</a>    
-<a href="https://github.com/coderngaonger/Smart-enrollment-chatbotAI">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=coderngaonger&repo=Smart-enrollment-AI-chatbot-visualization&theme=merko"/>
+<br/><br/>
+
+<a href="https://github.com/coderngaonger/Aspect-sentiment-review-classifier">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Aspect-sentiment-review-classifier&theme=radical"/>
 </a>
 
-<a href="https://github.com/coderngaonger/Realtime_object_dectection_warning_system">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=coderngaonger&repo=Realtime-object-detection-warning&theme=gruvbox" />
-</a>    
-</p>
+<a href="https://github.com/coderngaonger/Smart-enrollment-AI-chatbot-visualization">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Smart-enrollment-AI-chatbot-visualization&theme=merko"/>
+</a>
+
+<a href="https://github.com/coderngaonger/Realtime-object-detection-warning">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Realtime-object-detection-warning&theme=gruvbox"/>
+</a>
+
+</div>
